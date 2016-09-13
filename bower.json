@@ -1,0 +1,14 @@
+{
+  "name": "allpress-desktop",
+  "description": "News and Radio for Desktop",
+  "version": "0.1.0",
+  "homepage": "https://github.com/angular/angular-seed",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.5.0",
+    "angular-route": "~1.5.0",
+    "angular-loader": "~1.5.0",
+    "angular-mocks": "~1.5.0"
+  }
+}
